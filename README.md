@@ -1,2 +1,2 @@
 # BinarySearch.io
- Problems from BinarySearch.io
+ Problems from BinarySearch.io (RIP)
